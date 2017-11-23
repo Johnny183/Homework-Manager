@@ -1,0 +1,9 @@
+C:\Users\Johnny\Desktop\Software Development\VBProjects\Homework Manager\bin\Release\Homework Manager.exe.config
+C:\Users\Johnny\Desktop\Software Development\VBProjects\Homework Manager\bin\Release\Homework Manager.exe
+C:\Users\Johnny\Desktop\Software Development\VBProjects\Homework Manager\bin\Release\Homework Manager.pdb
+C:\Users\Johnny\Desktop\Software Development\VBProjects\Homework Manager\obj\Release\Homework_Manager.homePanel.resources
+C:\Users\Johnny\Desktop\Software Development\VBProjects\Homework Manager\obj\Release\Homework_Manager.Properties.Resources.resources
+C:\Users\Johnny\Desktop\Software Development\VBProjects\Homework Manager\obj\Release\Homework Manager.csproj.GenerateResource.Cache
+C:\Users\Johnny\Desktop\Software Development\VBProjects\Homework Manager\obj\Release\Homework Manager.exe
+C:\Users\Johnny\Desktop\Software Development\VBProjects\Homework Manager\obj\Release\Homework Manager.pdb
+C:\Users\Johnny\Desktop\Software Development\VBProjects\Homework Manager\obj\Release\Homework Manager.csproj.CoreCompileInputs.cache
